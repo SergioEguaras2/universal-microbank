@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p131202-e1277528.adobeaemcloud.com/bin/franklin.delivery/SergioEguaras2/microbank-universal/main"
+    url: "https://author-p131202-e1277528.adobeaemcloud.com/bin/franklin.delivery/sergioeguaras2/microbank-universal/main"
     type: "markup"
     suffix: ".html"
